@@ -33,4 +33,4 @@ Technical Architecture:
 *  [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase/Sprint%203)
 *  [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase/Sprint%204)
 *  [Final Demo Video](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/Train%20the%20Model%20On%20IBM/IBM.mp4)
-*  [Final Project Documentation]()
+*  [Final Project Documentation](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/IBM%20documentation.pdf)
